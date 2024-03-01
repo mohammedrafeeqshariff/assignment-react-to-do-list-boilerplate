@@ -1,7 +1,5 @@
 {
-  "homepage": "https://github.com/mohammedrafeeqshariff/assignment-react-to-do-list-boilerplate.git",
-  "name": "kalvium-todo",
-  "private": true,
+  "homepage": "https://mohammedrafeeqshariff.github.io/assignment-react-to-do-list-boilerplate/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
