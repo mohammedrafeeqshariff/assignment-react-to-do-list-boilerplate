@@ -55,7 +55,7 @@ class Todo extends Component {
                     <h1>Add your to-do's !</h1>
                     <input type="text" id="input_tag" onChange={this.getInput} onKeyDown={(e) => e.key === 'Enter' && this.addTodo()} />
                     <span>
-                        <button className="add-button" onClick={this.addTodo} >Add item</button>
+                        <button className="add-button" onClick={this.addTodo} >Add to-do</button>
                     </span>
                 </div>
 
